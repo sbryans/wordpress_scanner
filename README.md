@@ -11,10 +11,10 @@ bundle install
 
 ## How to operate:
 
-1. Navigate to the application's working directory.
+1. Navigate to the application's working directory
 ```ruby
 ruby app.rb
 ```
-2. Enter the full target URI.
+2. Enter the full target URI
 
 > Use freely & responsibly.
