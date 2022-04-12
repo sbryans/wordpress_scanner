@@ -8,18 +8,36 @@ GEM
     mime-types (3.4.1)
       mime-types-data (~> 3.2015)
     mime-types-data (3.2022.0105)
+<<<<<<< HEAD
     multi_xml (0.6.0)
     nokogiri (1.13.4-x86_64-linux)
+=======
+    mini_portile2 (2.8.0)
+    multi_xml (0.6.0)
+    nokogiri (1.13.3)
+      mini_portile2 (~> 2.8.0)
+>>>>>>> dc2a7d6c8461f89e7a60209619319728568a0ddf
       racc (~> 1.4)
     racc (1.6.0)
 
 PLATFORMS
+<<<<<<< HEAD
   x86_64-linux
+=======
+  ruby
+>>>>>>> dc2a7d6c8461f89e7a60209619319728568a0ddf
 
 DEPENDENCIES
   colorize
   httparty
+<<<<<<< HEAD
   nokogiri (>= 1.13.4)
 
 BUNDLED WITH
    2.3.7
+=======
+  nokogiri (~> 1.13.2)
+
+BUNDLED WITH
+   2.1.4
+>>>>>>> dc2a7d6c8461f89e7a60209619319728568a0ddf
