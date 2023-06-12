@@ -18,3 +18,5 @@ ruby app.rb
 2. Enter the full target URI
 
 > Use freely & responsibly.
+
+.
